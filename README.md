@@ -4,6 +4,11 @@
 
 [![Kishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishan254)](https://github.com/kishan254/kishan254)
 
+
+### Languages used
+
+![GitHub Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kishan254&theme=radical&show_icons=true)
+
 <!--
 **kishan254/kishan254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
