@@ -2,7 +2,7 @@
 
 ### My Stats
 
-[![Kishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishan254)](https://github.com/kishan254/kishan254)
+[![Kishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishan254&theme=radical&show_icons=true)](https://github.com/kishan254/kishan254)
 
 
 ### Languages used
