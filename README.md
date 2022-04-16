@@ -1,5 +1,4 @@
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
- ### Hi there 👋
+### Hi there 👋
 
 I am learning how to be a full-stack developer. I like to talk about business, capitalising on MVP, energy storage, and making apps that are valuable in people's lives.
 
