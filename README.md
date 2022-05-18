@@ -2,9 +2,9 @@
 
 I am learning how to be a full-stack developer. I like to talk about business, capitalising on MVP, energy storage, and making apps that are valuable in people's lives.
 
-### My Stats 
+<!-- ### My Stats 
 
-[![Kishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishan254&theme=radical&show_icons=true)](https://github.com/kishan254/kishan254)
+[![Kishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishan254&theme=radical&show_icons=true)](https://github.com/kishan254/kishan254) -->
 
 
 ### Quotes I live by
@@ -14,9 +14,9 @@ You rise by rising others
 They way you do anything is how you do everything
 
 
-### Languages used
+<!-- ### Languages used
 
-![GitHub Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kishan254&theme=radical&show_icons=true)
+![GitHub Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kishan254&theme=radical&show_icons=true) -->
 
 
 ### Technical Skills
